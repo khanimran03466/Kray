@@ -1,0 +1,284 @@
+@media(max-width: 1200px){
+	nav ul li a { font-size: 18px; }
+	.tren1 { max-width: 47%; -webkit-box-flex: 0; -ms-flex: 0 0 47%; flex: 0 0 47%; }
+	.tren3 { max-width: 28%; -webkit-box-flex: 0; -ms-flex: 0 0 28%; flex: 0 0 28%;}
+	.tren_cov h2 { font-size: 18px; }
+	.tren2 .btn { font-size: 14px; }
+	.btn {padding: 7px 15px;}
+
+	.border-g {max-width: 95%; margin: 50px auto;}
+	.buy-img { -webkit-box-flex: 0; -ms-flex: 0 0 14%; flex: 0 0 14%;}
+	.buy-para p {font-size: 18px;}
+	.abou-social ul li {margin: 0 8px; }
+	.about-cont .h2 {    font-size: 24px;}
+	.other-q p {  font-size: 20px;}
+	.portable-speaker .btn {right: 15px;}
+	.portable-speaker-wraper h2 {font-size: 28px;}
+	.top-picks .buy-main { -webkit-box-flex: 0; -ms-flex: 0 0 82%; flex: 0 0 82%; }
+	.top-picks .buy-head h2 {  font-size: 21px;}
+	.top-picks .product p { font-size: 21px;}
+	.top-picks .btn { font-size: 14px;}
+	.purches-icon { max-width: 43px;}
+	.inner-nav ul li { font-size: 16px;}
+	.inner-nav ul li:not(:last-child):before {top: calc(50% - 12px);}
+
+}
+
+@media(max-width: 1023px){
+	.tren1 .t1-top h2 { font-size: 38px; }
+	.tren1 .t1-top h3 { font-size: 19px; }
+	.btn { font-size: 18px;}
+	.slider2_sec .slider-cont { margin: 0 8px;}
+	.tranding-head ul li {  padding: 5px 11px;}
+	.tranding-head ul li a { font-size: 17px; }
+	.tranding-head ul { margin: 20px 0;}
+	.buy-head { max-width: 40%; -webkit-box-flex: 0; -ms-flex: 0 0 40%; flex: 0 0 40%;}
+	.buy-para { max-width: 60%; -webkit-box-flex: 0; -ms-flex: 0 0 60%; flex: 0 0 60%;}
+	.buy-head h2 {  font-size: 2rem; }
+	.foo-nav h4 { font-size: 19px; }
+	.tren3 h3 {font-size: 22px;}
+	.tranding-head h1 { font-size: 30px;}
+	.p-img-sec:before {top: 30%; }
+	.top-picks .buy-head h2 { font-size: 18px;}
+	.foo-nav h4 { font-size: 17px;}
+}
+
+
+
+@media(max-width: 991px){
+	.main-footer { -ms-flex-wrap: wrap; flex-wrap: wrap; }
+	.main-footer .cate.about {  -webkit-box-flex: 0;  -ms-flex: 0 0 50%;  flex: 0 0 50%; }
+	.cate.categories {  -webkit-box-flex: 0;  -ms-flex: 0 0 50%;  flex: 0 0 50%; }
+	.cate.news { -webkit-box-flex: 0; -ms-flex: 0 0 100%; flex: 0 0 100%; margin-top: 50px; }
+	.main-footer .cate:nth-child(2):before {display: none;}
+	footer .logo:before { width: 42%;}
+	footer .cp p { font-size: 15px; }
+	.tren1.slide .t1-top h2 { font-size: 30px; }
+	.scrollBar_slider ul li { max-width: 350px;}
+
+	.logo-sec { padding: 15px 0; }
+	.logo { max-width: 260px; text-align: left;}
+	.logo a { font-size: 60px;}
+	nav ul { -ms-flex-wrap: wrap; flex-wrap: wrap; }
+	nav ul li {margin-bottom: 25px;}
+	nav {padding: 15px 0 0;}
+	nav ul li a { font-size: 17px; }
+	.tranding-head h1 { font-size: 36px; }
+	.tranding-head ul li a { font-size: 16px; }
+	.tranding-head ul { margin: 15px 0;}
+
+	.tranding-topic {  -ms-flex-wrap: wrap;  flex-wrap: wrap; }
+	.tren1 {max-width: 70%; -webkit-box-flex: 0; -ms-flex: 0 0 70%; flex: 0 0 70%;height: 450px;margin-bottom: 50px;}
+	.tren2 { max-width: 45%; -webkit-box-flex: 0; -ms-flex: 0 0 45%; flex: 0 0 45%; }
+	.tren3 { max-width: 45%; -webkit-box-flex: 0; -ms-flex: 0 0 45%; flex: 0 0 45%; }
+	.ad_banner h3 { font-size: 2rem; }
+	.ad_banner { margin: 60px 0;}
+	.slider1_sec, .slider2_sec { margin: 70px 0; }
+	.tren1.slide .t1-top h2 { font-size: 25px; }
+
+	.tren1.slide {height: auto;margin: 0; }
+	.swiper-button-next, .swiper-button-prev { padding: 22px;}
+	.swiper-button-next::after, .swiper-button-prev::after { font-size: 20px; font-weight: bolder;}
+	.slider2_sec .slider-cont {max-width: 230px;}
+	.slider2_sec .slider-txt h5 { font-size: 17px; }
+	.buy-para p, .tranding-head p { font-size: 15px; }
+	.buy-head h2 { font-size: 1.5rem; }
+	.border-g {margin: 30px auto;}
+	.buy-img {margin-right: 15px; }
+	.tren1 .t1-top h2 { font-size: 30px; }
+	.border-g > a { width: 40px; height: 40px;right: -13px; bottom: -10px; }
+
+	.buying-guid-sec { margin-bottom: 40px; }
+	.tranding-head h1 { font-size: 30px; }
+	.tranding-head p {font-size: 18px; }
+	.explore .search-cat {max-width: 100%;}
+	.explore form input::-webkit-input-placeholder { font-size: 15px; }
+	.explore form input::-moz-placeholder { font-size: 15px; }
+	.explore form input:-ms-input-placeholder { font-size: 15px; }
+	.explore form input::-ms-input-placeholder { font-size: 15px; }
+	.explore form input::placeholder { font-size: 15px; }
+.explore form input:-ms-input-placeholder {font-size: 15px; }
+.explore form input::-ms-input-placeholder { font-size: 15px; }
+.recent-post-wrap h1 span { font-size: 17px; }
+.recent-post-wrap .t1-top h2 {    font-size: 18px!important;line-height: normal;}
+.recent-post-wrap .t1-top { padding: 15px; }
+
+.abou-social ul li {  margin: 0 2px;}
+.about-us .tren3 h3 {font-size: 18px; }
+.speaker-head .inner-nav ul li {  margin: 0 3px; }
+.portable-speaker-wraper h2 { font-size: 20px;}
+.p-img-sec:before { top: 24%; }
+.port-cont-head p {font-size: 13px;}
+.portable-speaker .port-cont-p p {font-size: 15px;}
+.portable-speaker { padding: 23px 15px;}
+.p-img-sec {    padding: 20px;}
+.top-picks .buy-head h2 { font-size: 15px; }
+.deal-alert p {font-size: 12px;}
+.about-cont .h2 {  font-size: 20px; }
+.the-searches p { font-size: 18px;}
+.top-sticker { font-size: 15px; top: -14px; }
+.wunder-product-cont .btn {font-size: 16px;}
+.related-topics .img-sec h5 {font-size: 16px;}
+.our .top-sticker {top: -12px;}
+
+
+}
+
+
+
+@media(max-width: 767px){
+	nav.active ul { left: 0; }
+	nav ul {padding: 80px 30px;-webkit-box-orient: vertical;-webkit-box-direction: normal;-ms-flex-direction: column;flex-direction: column;-webkit-box-pack: stretch;-ms-flex-pack: stretch;justify-content: stretch; position: fixed; width: 100%;height: 100%;background: #f82e56;z-index: 99;top: 0;left: 100%;right: 0;-webkit-transition: .5s;-o-transition: .5s;transition: .5s; }
+	nav ul li { margin-bottom: 20px; }
+	nav ul li a {  font-size: 17px; color: #fff; }
+	.banner-ads { max-width: 680px; width: 100%; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center;}
+	.hamburger { display: block; }
+	header {display: -webkit-box;display: -ms-flexbox;display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; -webkit-box-pack: end; -ms-flex-pack: end; justify-content: flex-end;}
+
+	.hamburger.active .toggle-buton:after{top: 0px;}
+	.hamburger.active .toggle-buton:before {top: 0px; }
+	.buy-head, .buy-para {    padding: 5px;}
+	.buy-img {-webkit-box-flex: 0;-ms-flex: 0 0 15%;flex: 0 0 15%;}
+	.buy-head h2,.tranding-head h1 {  font-size: 1.3rem;}
+	.uls-2 ul:first-child:before { right: -10px;}
+
+	nav ul li ul.sub-menu {position: relative; background-color: transparent;}
+	nav ul li a:hover { color: #fff; }
+	nav ul li ul.sub-menu {display: none; }
+	nav ul li:hover ul.sub-menu {display: block; }
+	nav ul { padding: 30px 30px;}
+	.row.explore-wrap {margin-right: 0; margin-left: 0;}
+	.buy-para p, .tranding-head p { font-size: 15px; }
+	.row.recent-post-head  .col-xs-6 { -webkit-box-flex: 0; -ms-flex: 0 0 50%; flex: 0 0 50%;  }
+	.recent-procut .tren1.slide {margin-bottom: 20px;}
+	.logo-sec > .logo {display: -webkit-box;display: -ms-flexbox;display: flex; -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between;-webkit-box-align: center;-ms-flex-align: center;align-items: center; }
+	.logo {  max-width: 100%; }
+	nav {  padding: 0px 0 0; }
+	nav { border-bottom: 2px solid #F82E56;}
+	.logo-sec {display: block; padding: 0;width: 100%; }
+
+	.about-us .about-right-cont .tren3:before{display: none;}
+	.p-img-sec:before { top: auto; bottom: 25px; left: 25%; width: 50%;}
+	.p-img-sec { margin: 0 auto 50px; }
+	.inner-nav ul li { font-size: 13px; }
+	.btn { font-size: 15px;}
+	.top-picks .buy-head h2 { font-size: 12px;}
+	.purches-icon { max-width: 25px;}
+	.top-picks .product p {  font-size: 16px;}
+	.top-picks .product {  -webkit-box-flex: 0;  -ms-flex: 0 0 85%;  flex: 0 0 85%; }
+	.top-picks .btn { font-size: 12px; }
+	.choosing-speaker .abou-social {margin: 15px auto;}
+	.wunder-product-cont .btn { display: block; left: 0;  }
+
+}	
+
+
+
+@media(max-width: 640px){
+	.tranding-head ul { -ms-flex-wrap: wrap; flex-wrap: wrap;}
+	.tranding-head ul li {  padding: 5px 8px;}
+	.tranding-head ul li a {  font-size: 13px; }
+	.trending_week {  margin: 20px 0; }
+	.tranding-head h1 { font-size: 25px;}
+	.tranding-head ul {  margin: 10px 0; }
+
+	.more-arrow:before {right: -11px;}
+	.tren1 {   max-width: 100%; -webkit-box-flex: 0; -ms-flex: 0 0 100%; flex: 0 0 100%; height: 400px;}
+	.tranding-head { margin-bottom: 25px; }
+	.tren1 .t1-top h2 { font-size: 25px; }
+	.tren1 .t1-top p {font-size: 15px; font-weight: 400;}
+	.tren1 .t1-top h3 {  font-size: 16px;}
+
+	.tren2, .tren3,.buy-head,.buy-para,.buy-img,.main-footer .cate.about,.cate.categories {   max-width: 100%; -webkit-box-flex: 0; -ms-flex: 0 0 100%; flex: 0 0 100%;}
+	.tren2 {   height: auto;    margin-bottom: 40px;}
+	.ad_banner h3 {  font-size: 1rem;}
+	.slider1_sec, .slider2_sec {  margin: 30px 0;}
+	.tren1.slide .t1-top h2 {  font-size: 22px;}
+	.t1-top { padding: 20px}
+	.border-g {max-width: 100%; }
+
+	.buying-guid-cont,.buy-main {-webkit-box-orient: vertical;-webkit-box-direction: normal;-ms-flex-direction: column;flex-direction: column;}
+	.buy-img { margin-right: 0;max-height: 200px; }
+	.buy-main { padding: 10px;}
+	.cate.categories {margin-top: 30px;}
+	.main-footer .cate:not(:last-child):before {display: none;}
+	.main-footer {padding: 15px 0;}
+	.logo a { font-size: 49px; }
+	footer .logo:before { width: 32%; }
+	.main-footer .cate {  padding: 0 15px;}
+	.foo-nav h4 { font-size: 16px;}
+	.see-more-btn a {font-size: 17px; }
+	.logo { margin-bottom: 5px; }
+	.logo-sec {display: -webkit-box;display: -ms-flexbox;display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column;}
+	nav ul {  padding: 50px 30px; }
+	.hamburger.active .toggle-buton:after { top: 0px; }
+	.hamburger.active .toggle-buton:before {  top: 0px; }
+	.slider2_sec .slider-cont { max-width: 225px; }
+	.border-g > a {  right: 0px; bottom: -20px;}
+	.recent-post-wrap h1 span { font-size: 13px; }
+	.recent-post-wrap h1 { font-size: 17px; }
+	.btn { font-size: 15px; }
+	*{max-width: 100%; }
+	.scrollBar_slider ul li { /*max-width: 100%;*/ }
+	.tren_cov h2 { font-size: 16px; }
+	.recent-procut .tren1.slide { margin-bottom: 25px;}
+	.tren1.slide img {width: 100%;height: 100%;display: block;-o-object-fit: cover;object-fit: cover;}
+	.recent-procut > .row {margin-right: 0; margin-left: 0;}
+	.recent-post-wrap > .container {margin: 0; padding: 0; } 
+	.trending_cont .tren2 .tren_cov {max-width: 100%; }
+	.about-cont .h2 { font-size: 18px;}
+	.about-us .form .form-check-label,.about-cont p {font-size: 14px;}
+	.about-us .form input[type="checkbox"] { width: 25px; height: 25px;}
+	label {font-size: 15px;}
+	.explore { margin: 15px 0;}
+	input::-webkit-input-placeholder { font-size: 14px}
+	input::-moz-placeholder { font-size: 14px}
+	input:-ms-input-placeholder { font-size: 14px}
+	input::-ms-input-placeholder { font-size: 14px}
+	input::placeholder { font-size: 14px}
+	input:-ms-input-placeholder { font-size: 14px}
+	input::-ms-input-placeholder {  font-size: 14px }
+	.abou-social ul li { margin: 0 5px;}
+	.about-right-cont .tren3 {padding: 0; margin: 0;}
+	.inner-nav  p{ -webkit-box-flex: 0; -ms-flex: 0 0 17%; flex: 0 0 17%;}
+	.speaker-head { margin-bottom: 20px;}
+	.portable-speaker-wraper h2 { font-size: 15px; margin: 0;padding: 0; }
+	.port-cont-head.row {margin-right: 0;margin-left: 0;}
+	.top-picks .buy-para {    width: 100%;}
+	.purches-icon { max-width: 35px;}
+	.top-picks .buy-img {max-width: 100%; margin: 0 auto}
+	.buying-guid-cont {padding: 10px;}
+	.deal-section .tranding-head { margin-bottom: 60px; }
+	.buy-img { max-height: 200px;}
+	.inner-nav ul li:not(:last-child):before { top: calc(50% - 8px);}
+	.recent-post-head {  margin: 30px 0 0;}
+	.review .col-xs-3.col-sm-3 {text-align: center; margin-bottom: 15px; }
+	.our.about-cont .container> .row, .related-topics.about-cont .container> .row {margin-right: 0; margin-left: 0;}
+
+
+
+}
+
+
+@media(max-width: 375px){
+	.foo-nav form {-webkit-box-orient: vertical;-webkit-box-direction: normal;-ms-flex-direction: column;flex-direction: column; }
+	.input-t {margin-right: 0;margin-bottom: 20px; width: 100%; }
+	.foo-social ul, .foo-nav form { -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; }
+	.border-g { max-width: 95%;}
+	.slider2_sec .slider-cont {margin: 0 20px; }
+	.tren1 {height: 315px; }
+	.trending_cont .tren2 .tren_cov {margin: 30px auto;}
+	.tren1 {margin-bottom: 0px;}
+	.tren3:before {display: none;}
+	.buy-img {  margin-right: 0; max-height: 200px; max-height: auto;}
+	.top-picks .buy-img {  max-height: 200px; }
+    .btn { font-size: 14px;}
+    .recent-post-wrap .tren1.slide {max-height: 250px;}
+    .foo-social ul li {margin-right: 13px;}
+    .inner-nav ul li {  font-size: 10px; }
+    .recent-post-wrap h1 { font-size: 13px; }
+    .buy-para p, .tranding-head p { font-size: 13px;}
+    .deal-alert p { font-size: 10px;}
+    .deal-alert {margin-bottom: 20px;}
+    .article-main-img {border-radius: 10px;}
+}
